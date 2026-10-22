@@ -73,10 +73,6 @@ Install the tools required by your project, such as:
 
    For a static HTML project, open `index.html` in your browser.
 
-## 💻 Usage
-
-Launch the application using the appropriate steps above and explore the implemented features.
-
 ## 🎯 Learning Objectives
 
 - Understand the fundamentals of web application development.
